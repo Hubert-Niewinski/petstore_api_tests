@@ -34,7 +34,7 @@ cd petstore_api_tests
 npm install
 ```
 
-### Usage:
+## Usage:
 
 - running tests
 
@@ -48,7 +48,7 @@ npm test
 npm run lint
 ```
 
-### Reports:
+## Reports:
 
 Test results will be shown in terminal, more datailed reports can be found in the root folder:
 
