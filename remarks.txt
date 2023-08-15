@@ -1,3 +1,5 @@
+Remarks:
 1. API is very permissive which makes it difficult to test. Evene sending an empty object in body creates a new pet.
 2. POST request returns 200 but 201 would be more appropriate.
-3. If sent value is not a string when it should be, API tries to convert it to a string if possible.
+3. If sent value is not a string when it should be, API tries to convert it to a string if possible, if not an error is returned.
+4. 500 is returned in some cases when 400 would be more appropriate - for example when sending category.id as string instead of number

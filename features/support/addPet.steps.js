@@ -64,6 +64,10 @@ Given('I do not have the correct data to create a new pet, status is invalid', (
   invalidPet = { ...pet, status: 0 };
 });
 
+Given('I do not have the correct data to create a new pet, categoryId is invalid', () => {
+  invalidPet = { ...pet, category: { id: 'id passed as string', name: 'turtle' } };
+});
+
 When('I try to create the pet', async () => {
   try {
     (response = await axios.post(`${BASE_URL}${PATH}`)), invalidPet;
@@ -84,7 +88,7 @@ When('I try to create a pet with dangerous property {string}', async dangerousPr
 });
 
 Then('I receive the information that pet has not been created', () => {
-  expect(response.status).not.to.equal(200);
+  expect(response.status).not.to.be.oneOf([200, 201]);
 });
 
 Then('Dangerous property has not been saved to the database', async () => {

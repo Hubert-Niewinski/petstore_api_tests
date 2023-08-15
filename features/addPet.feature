@@ -20,7 +20,12 @@ Feature: Pet Store API
     When I try to create the pet
     Then I receive the information that pet has not been created
 
-  Scenario: Unsuccessfully creating a new pet with incorrect data
+  Scenario: Unsuccessfully creating a new pet with invalid status
+    Given I do not have the correct data to create a new pet, categoryId is invalid
+    When I try to create the pet
+    Then I receive the information that pet has not been created
+
+  Scenario: Unsuccessfully creating a new pet with invalid status
     Given I do not have the correct data to create a new pet, status is invalid
     When I try to create the pet
     Then I receive the information that pet has not been created
