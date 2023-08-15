@@ -17,9 +17,20 @@ Following prerequisites are required to be installed
 
 ## Installation
 
+Follow these instructions to install this project:
+
 ### Steps:
 
+- clone project
+
 ```bash
+git clone https://github.com/Hubert-Niewinski/petstore_api_tests.git
+```
+
+- install dependencies
+
+```bash
+cd petstore_api_tests
 npm install
 ```
 

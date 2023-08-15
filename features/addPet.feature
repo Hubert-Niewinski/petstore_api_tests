@@ -15,8 +15,13 @@ Feature: Pet Store API
       | bird         | Tweety    |
       | pig          | Piggy    |
 
-  Scenario: Unsuccessfully creating a new pet
+  Scenario: Unsuccessfully creating a new pet with lack of data
     Given I do not have the required data to create a new pet
+    When I try to create the pet
+    Then I receive the information that pet has not been created
+
+  Scenario: Unsuccessfully creating a new pet with incorrect data
+    Given I do not have the correct data to create a new pet, status is invalid
     When I try to create the pet
     Then I receive the information that pet has not been created
 

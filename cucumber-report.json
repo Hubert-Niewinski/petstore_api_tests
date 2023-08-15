@@ -19,7 +19,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 16601100
+              "duration": 17255499
             }
           },
           {
@@ -32,7 +32,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1169236299
+              "duration": 767476999
             }
           },
           {
@@ -45,7 +45,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 16328399
+              "duration": 1758299
             }
           },
           {
@@ -54,11 +54,11 @@
             "line": 7,
             "name": "pet category is 'dog'",
             "match": {
-              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:48"
+              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:47"
             },
             "result": {
               "status": "passed",
-              "duration": 1507000
+              "duration": 3649299
             }
           },
           {
@@ -67,11 +67,11 @@
             "line": 8,
             "name": "pet name is 'Fido'",
             "match": {
-              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:52"
+              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:51"
             },
             "result": {
               "status": "passed",
-              "duration": 2621400
+              "duration": 4071700
             }
           },
           {
@@ -80,11 +80,11 @@
             "line": 9,
             "name": "The the pet's data was correctly saved",
             "match": {
-              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:56"
+              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:55"
             },
             "result": {
               "status": "passed",
-              "duration": 2088700
+              "duration": 5623399
             }
           }
         ],
@@ -108,7 +108,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 406799
+              "duration": 399199
             }
           },
           {
@@ -121,7 +121,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 478994099
+              "duration": 361369899
             }
           },
           {
@@ -134,7 +134,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 21439299
+              "duration": 393199
             }
           },
           {
@@ -143,11 +143,11 @@
             "line": 7,
             "name": "pet category is 'cat'",
             "match": {
-              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:48"
+              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:47"
             },
             "result": {
               "status": "passed",
-              "duration": 277100
+              "duration": 615299
             }
           },
           {
@@ -156,11 +156,11 @@
             "line": 8,
             "name": "pet name is 'Max'",
             "match": {
-              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:52"
+              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:51"
             },
             "result": {
               "status": "passed",
-              "duration": 304000
+              "duration": 1160399
             }
           },
           {
@@ -169,11 +169,11 @@
             "line": 9,
             "name": "The the pet's data was correctly saved",
             "match": {
-              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:56"
+              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:55"
             },
             "result": {
               "status": "passed",
-              "duration": 319099
+              "duration": 878999
             }
           }
         ],
@@ -197,7 +197,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 739200
+              "duration": 868200
             }
           },
           {
@@ -210,7 +210,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 417715400
+              "duration": 621074000
             }
           },
           {
@@ -223,7 +223,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 31447699
+              "duration": 202000
             }
           },
           {
@@ -232,11 +232,11 @@
             "line": 7,
             "name": "pet category is 'bird'",
             "match": {
-              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:48"
+              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:47"
             },
             "result": {
               "status": "passed",
-              "duration": 3848299
+              "duration": 286099
             }
           },
           {
@@ -245,11 +245,11 @@
             "line": 8,
             "name": "pet name is 'Tweety'",
             "match": {
-              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:52"
+              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:51"
             },
             "result": {
               "status": "passed",
-              "duration": 426800
+              "duration": 345499
             }
           },
           {
@@ -258,11 +258,11 @@
             "line": 9,
             "name": "The the pet's data was correctly saved",
             "match": {
-              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:56"
+              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:55"
             },
             "result": {
               "status": "passed",
-              "duration": 571199
+              "duration": 382999
             }
           }
         ],
@@ -286,7 +286,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 112900
+              "duration": 222199
             }
           },
           {
@@ -299,7 +299,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 430057800
+              "duration": 603443699
             }
           },
           {
@@ -312,7 +312,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 21734799
+              "duration": 149900
             }
           },
           {
@@ -321,11 +321,11 @@
             "line": 7,
             "name": "pet category is 'pig'",
             "match": {
-              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:48"
+              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:47"
             },
             "result": {
               "status": "passed",
-              "duration": 120300
+              "duration": 174800
             }
           },
           {
@@ -334,11 +334,11 @@
             "line": 8,
             "name": "pet name is 'Piggy'",
             "match": {
-              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:52"
+              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:51"
             },
             "result": {
               "status": "passed",
-              "duration": 157499
+              "duration": 300600
             }
           },
           {
@@ -347,11 +347,11 @@
             "line": 9,
             "name": "The the pet's data was correctly saved",
             "match": {
-              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:56"
+              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:55"
             },
             "result": {
               "status": "passed",
-              "duration": 320899
+              "duration": 691300
             }
           }
         ],
@@ -360,10 +360,10 @@
       },
       {
         "description": "",
-        "id": "pet-store-api;unsuccessfully-creating-a-new-pet",
+        "id": "pet-store-api;unsuccessfully-creating-a-new-pet-with-lack-of-data",
         "keyword": "Scenario",
         "line": 18,
-        "name": "Unsuccessfully creating a new pet",
+        "name": "Unsuccessfully creating a new pet with lack of data",
         "steps": [
           {
             "arguments": [],
@@ -371,11 +371,11 @@
             "line": 19,
             "name": "I do not have the required data to create a new pet",
             "match": {
-              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:60"
+              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:59"
             },
             "result": {
               "status": "passed",
-              "duration": 2457300
+              "duration": 2169999
             }
           },
           {
@@ -384,11 +384,11 @@
             "line": 20,
             "name": "I try to create the pet",
             "match": {
-              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:64"
+              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:67"
             },
             "result": {
               "status": "passed",
-              "duration": 387313300
+              "duration": 504678100
             }
           },
           {
@@ -397,11 +397,61 @@
             "line": 21,
             "name": "I receive the information that pet has not been created",
             "match": {
-              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:83"
+              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:86"
             },
             "result": {
               "status": "passed",
-              "duration": 1237800
+              "duration": 1424399
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "pet-store-api;unsuccessfully-creating-a-new-pet-with-incorrect-data",
+        "keyword": "Scenario",
+        "line": 23,
+        "name": "Unsuccessfully creating a new pet with incorrect data",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 24,
+            "name": "I do not have the correct data to create a new pet, status is invalid",
+            "match": {
+              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:63"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1332400
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 25,
+            "name": "I try to create the pet",
+            "match": {
+              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:67"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 517010999
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 26,
+            "name": "I receive the information that pet has not been created",
+            "match": {
+              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:86"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 148200
             }
           }
         ],
@@ -412,59 +462,59 @@
         "description": "",
         "id": "pet-store-api;unsuccessfully-adding-potentially-dangerous-property",
         "keyword": "Scenario",
-        "line": 23,
+        "line": 28,
         "name": "Unsuccessfully adding potentially dangerous property",
         "steps": [
           {
             "arguments": [],
             "keyword": "Given ",
-            "line": 24,
+            "line": 29,
             "name": "I have a pet to create with category 'Hippo' and name 'Doughie'",
             "match": {
               "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:28"
             },
             "result": {
               "status": "passed",
-              "duration": 130799
+              "duration": 405600
             }
           },
           {
             "arguments": [],
             "keyword": "When ",
-            "line": 25,
+            "line": 30,
             "name": "I try to create a pet with dangerous property '<dangerousProperty>'",
             "match": {
-              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:72"
+              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:75"
             },
             "result": {
               "status": "passed",
-              "duration": 487932299
+              "duration": 488738800
             }
           },
           {
             "arguments": [],
             "keyword": "Then ",
-            "line": 26,
+            "line": 31,
             "name": "I receive confirmation that the pet was created",
             "match": {
               "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:43"
             },
             "result": {
               "status": "passed",
-              "duration": 23792899
+              "duration": 154500
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
-            "line": 27,
+            "line": 32,
             "name": "Dangerous property has not been saved to the database",
             "match": {
-              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:87"
+              "location": "file:\\D:\\DEVELOPMENT\\TESTS\\API\\petstore-cucumber\\features\\support\\addPet.steps.js:90"
             },
             "result": {
               "status": "passed",
-              "duration": 3712999
+              "duration": 1456100
             }
           }
         ],

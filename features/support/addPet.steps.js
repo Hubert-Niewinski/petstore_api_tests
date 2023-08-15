@@ -60,6 +60,10 @@ Given('I do not have the required data to create a new pet', () => {
   invalidPet = [];
 });
 
+Given('I do not have the correct data to create a new pet, status is invalid', () => {
+  invalidPet = { ...pet, status: 0 };
+});
+
 When('I try to create the pet', async () => {
   try {
     (response = await axios.post(`${BASE_URL}${PATH}`)), invalidPet;
