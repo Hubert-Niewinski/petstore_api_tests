@@ -1,0 +1,30 @@
+{
+  "name": "petstore-cucumber-tests",
+  "version": "1.0.0",
+  "description": "API tests for https://petstore.swagger.io/ written using BDD style",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npx cucumber-js -f @cucumber/pretty-formatter",
+    "lint": "npx eslint features/support/**"
+  },
+  "keywords": [],
+  "author": "Hubert Niewiński",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^9.4.0",
+    "@cucumber/pretty-formatter": "^1.0.0",
+    "@jest/types": "^29.6.1",
+    "@types/node": "^20.5.0",
+    "axios": "^1.4.0",
+    "chai": "^4.3.7",
+    "chai-json-schema": "^1.5.1",
+    "eslint": "^8.47.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.28.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "jest": "^29.6.2",
+    "prettier": "^3.0.1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"default": {
+		"parallel": 1,
+		"format": ["pretty-formatter", "progress-bar", "json:cucumber-report.json", "html:cucumber-report.html"],
+		"formatOptions": {
+			"theme": {
+				"feature keyword": ["magenta", "bold"],
+				"scenario keyword": ["magenta", "bold"],
+				"step keyword": ["bold"]
+			}
+		},
+		"import": ["features/support/*.steps.js"]
+	}
+}

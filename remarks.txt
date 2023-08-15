@@ -1,0 +1,2 @@
+1. API is very permissive which makes it difficult to test. Evene sending an empty object in body creates a new pet.
+2. POST request returns 200 but 201 would be more appropriate.
